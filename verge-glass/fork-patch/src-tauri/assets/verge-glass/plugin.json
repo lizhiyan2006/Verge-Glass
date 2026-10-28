@@ -1,0 +1,16 @@
+{
+  "name": "verge-glass",
+  "displayName": "Verge Glass 路 鍗婇€忔槑涓婚",
+  "version": "1.11.1",
+  "appSupported": ">=2.4.0 <2.7.0",
+  "testedWith": "2.5.9",
+  "entry": "src/verge-glass.js",
+  "style": "src/verge-glass.css",
+  "updateUrl": "",
+  "files": {
+    "src/verge-glass.css": "src/verge-glass.css",
+    "src/verge-glass.js": "src/verge-glass.js"
+  },
+  "notes": "files.* are relative to the location of this manifest when using VergeGlass.ps1 update"
+}
+
